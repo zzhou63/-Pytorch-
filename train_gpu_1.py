@@ -1,6 +1,6 @@
 
 """
-完整的模型训练套路（3）
+利用GPU 训练（一）
 """
 # from model_standard import *
 from torch import nn
